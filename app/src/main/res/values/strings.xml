@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jokes App</string>
+    <string name="next_joke_fetch_in">Next Joke fetch in</string>
+</resources>
